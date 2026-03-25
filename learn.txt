@@ -1,0 +1,37 @@
+node js js runtime lib
+
+
+
+
+express js ->> 
+
+browser ke bahar js ko use karne ke liye node js 
+
+api ->> get->read / access
+ post -> store
+ patch -> update perticular data 
+ delete ->delete
+ put-> data change all 
+
+
+ ==========node js===============
+
+ npm init -y(node packege manager)
+
+ ->set version and press next next
+ ->type : 
+
+  -=================express===========
+npm install express ->  dependencies
+
+make changes int js code as  follows->
+const express = require ("express")
+const app = express();
+
+app.listen(3000,()=>{
+    
+});
+
+================post =======
+pos
+
